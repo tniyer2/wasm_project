@@ -1,0 +1,6 @@
+*.out.js
+*.out.wasm
+*.out
+hello.js
+hello.wasm
+hello.html
